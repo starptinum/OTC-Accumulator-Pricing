@@ -68,7 +68,7 @@ The implementation is split into modular components for flexibility and scalabil
     ```bash
     git clone <repo-url>
     cd <repo-directory>
-    pip install -r requirements.txt
+    pip install -r requirements.txt 
     ```
 
 2. Ensure the input data files are present in the `data/` directory:
